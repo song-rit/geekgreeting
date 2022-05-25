@@ -1,3 +1,3 @@
-module github.com/song-rit/greekgreeting
+module github.com/song-rit/geekgreeting
 
 go 1.18
